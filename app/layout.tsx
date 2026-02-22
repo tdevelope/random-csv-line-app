@@ -6,7 +6,7 @@ import './globals.css'
 const rubik = Rubik({ subsets: ['latin', 'hebrew'], variable: '--font-rubik' })
 
 export const metadata: Metadata = {
-  title: 'בוחר שורה אקראית מקובץ CSV',
+  title: 'הגרלה',
   description: 'העלה קובץ CSV וקבל שורה אקראית בלחיצת כפתור',
   icons: {
     icon: [
