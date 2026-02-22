@@ -31,7 +31,7 @@ export default function Home() {
             <Dices className="h-8 w-8 text-primary-foreground" />
           </div>
           <h1 className="text-3xl font-bold tracking-tight text-foreground text-balance">
-            {"בוחר שורה אקראית"}
+            {"הגרלה"}
           </h1>
           <p className="mt-3 text-base text-muted-foreground text-pretty">
             {"העלה קובץ CSV וקבל שורה אקראית בלחיצת כפתור"}
